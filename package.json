@@ -1,0 +1,19 @@
+{
+  "name": "ghack-chain",
+  "version": "1.0.0",
+  "description": "mock/proxy for legacy servlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wrightmikea/ghack-chain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrightmikea/ghack-chain/issues"
+  },
+  "homepage": "https://github.com/wrightmikea/ghack-chain"
+}
