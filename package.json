@@ -4,7 +4,7 @@
   "description": "mock/proxy for legacy servlet",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
@@ -18,11 +18,13 @@
   "homepage": "https://github.com/wrightmikea/ghack-chain",
   "devDependencies": {
     "gulp": "^3.8.10",
+    "gulp-jasmine": "^1.0.1",
     "gulp-jshint": "^1.9.0"
   },
   "dependencies": {
     "Faker": "^0.7.2",
     "express": "^4.10.4",
+    "jasmine": "^2.1.1",
     "save": "0.0.20"
   }
 }
